@@ -1,0 +1,28 @@
+body{
+    background: rgb(222, 221, 221);
+}
+
+h1{
+    font-family: Gabriola;
+    font-size: 40px;
+}
+
+div{
+    border-width: 1Spx;
+    border-style: solid;
+    border-color: darkblue;
+}
+
+p{
+    font-size: 17px;
+}
+
+h2{
+    font-family: Gabriola;
+    color: purple;
+}
+
+h1{
+
+}
+
